@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](The main objective is to be able to identify these Melanoma Detection)
 * [Technologies Used](python 3.6)
-* [Conclusions](##### **Findings from Model 3** Accuracy of training and validation has been increased significantly due to augmentation and class imbalnce handling. The model is  not overfitting. This model can be used as final model.)
+* [Conclusions](##### Accuracy of training and validation has been increased significantly due to augmentation and class imbalnce handling. The model is  not overfitting. This model can be used as final model.)
 * [Acknowledgements](**Training Accuracy:** 94.12, **Validation Accuracy:** 83)
 
 <!-- You can include any other section that is pertinent to your problem -->
